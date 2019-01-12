@@ -5,6 +5,9 @@
 ul{
     font-family: 'Times New Roman';
 }
+.name{
+    font-size: 100px;
+}
 .nav{
     background-color: lightgreen;
     max-width: 25%;
@@ -16,13 +19,13 @@ ul{
     bottom: 0;
 }
 article{
-    font-family: Calibri;
+    font-family: 'Calibri';
 }
 #Bio{
     
 }
-#Skills{
-
+#Skills ul{
+    text-align: left;    
 }
 #WorkHistory{
 
