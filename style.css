@@ -1,0 +1,35 @@
+.content{
+    text-align: center;
+    padding-left: 140px;
+}
+ul{
+    font-family: 'Times New Roman';
+}
+.nav{
+    background-color: lightgreen;
+    max-width: 25%;
+    min-width: 140px;
+    flex: 1;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+article{
+    font-family: Calibri;
+}
+#Bio{
+    
+}
+#Skills{
+
+}
+#WorkHistory{
+
+}
+#Education{
+
+}
+#Certs{
+
+}
